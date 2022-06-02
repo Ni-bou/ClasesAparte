@@ -1,3 +1,6 @@
+
+
+//*tambien conocidas como matrices dinamicas
 import java.util.Scanner;
 
 
